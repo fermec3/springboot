@@ -1,2 +1,2 @@
 - #SpringBoot
-Projecao de uma API de banco de dados to-do list feita com SpringBoot, aplicando metódo CRUD (POST, PUT, GET, DELETE). Podendo manipular variados itens de várias maneiras. 
+Design of a to-do list database API made with SpringBoot, applying the CRUD and HTTP methods (POST, PUT, GET, DELETE). Being able to manipulate different items in different ways.
